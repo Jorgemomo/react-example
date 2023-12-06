@@ -2,6 +2,7 @@
   "name": "react-example",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://jorgemomo.github.io/react-example/",
   "type": "module",
   "scripts": {
     "dev": "vite",
